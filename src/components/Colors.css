@@ -1,0 +1,12 @@
+.colorBox{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.innerBox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 2px;
+    margin: 0 7px;
+}
